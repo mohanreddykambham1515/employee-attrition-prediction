@@ -1,0 +1,33 @@
+Feature,Metric,Drift Score,Status
+Age,PSI,0.022411002060353534,No significant drift
+BusinessTravel,Total Variation Distance,0.028358596185727045,Low drift
+DailyRate,PSI,0.08176909360743406,No significant drift
+Department,Total Variation Distance,0.05670839764477221,Low drift
+DistanceFromHome,PSI,0.02504993718562637,No significant drift
+Education,PSI,0.019772022052767856,No significant drift
+EducationField,Total Variation Distance,0.08843977151300084,Low drift
+EnvironmentSatisfaction,PSI,0.0030584544025573103,No significant drift
+Gender,Total Variation Distance,0.02710095027021797,Low drift
+HourlyRate,PSI,0.078382002569124,No significant drift
+JobInvolvement,PSI,0.015193854440673733,No significant drift
+JobLevel,PSI,0.019868336930873316,No significant drift
+JobRole,Total Variation Distance,0.09761706880554419,Low drift
+JobSatisfaction,PSI,0.010836666567312775,No significant drift
+MaritalStatus,Total Variation Distance,0.056171919317177424,Low drift
+MonthlyIncome,PSI,0.049160159624105734,No significant drift
+MonthlyRate,PSI,0.05826679078987839,No significant drift
+NumCompaniesWorked,PSI,0.03286525505840519,No significant drift
+OverTime,Total Variation Distance,0.03557027206486993,Low drift
+PercentSalaryHike,PSI,0.03186500278537561,No significant drift
+PerformanceRating,PSI,0.0,No significant drift
+RelationshipSatisfaction,PSI,0.021693448360863683,No significant drift
+StockOptionLevel,PSI,0.010282419367129907,No significant drift
+TotalWorkingYears,PSI,0.07652979142334755,No significant drift
+TrainingTimesLastYear,PSI,0.014031339689663969,No significant drift
+WorkLifeBalance,PSI,0.00403737484980278,No significant drift
+YearsAtCompany,PSI,0.032137660838192944,No significant drift
+YearsInCurrentRole,PSI,0.016211565657126573,No significant drift
+YearsSinceLastPromotion,PSI,0.016334502753368785,No significant drift
+YearsWithCurrManager,PSI,0.020007269058098996,No significant drift
+CareerYears,PSI,0.013850627404698376,No significant drift
+RoleExperienceRatio,PSI,0.016381846141109307,No significant drift
